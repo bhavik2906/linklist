@@ -37,3 +37,8 @@ The middle-insertion example produces this list:
 - Traversing a linked list with a temporary pointer
 - Inserting nodes at the beginning, end, and middle
 - Releasing memory with `free`
+
+## Project Links
+
+- [View the project on GitHub](https://github.com/bhavik2906/linklist)
+- [Download the project as a ZIP](https://github.com/bhavik2906/linklist/archive/refs/heads/main.zip)
